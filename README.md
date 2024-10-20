@@ -6,7 +6,9 @@
 O projeto App Controle Financeiro consiste em uma aplicação com três telas principais: Listagem, Cadastro e Atualização de transações. Nessas telas, o usuário poderá consultar, cadastrar, atualizar e excluir registros de maneira prática, proporcionando uma gestão financeira eficiente e intuitiva.
 
 # Tecnologia
-- .NET MAUI
+- C#
+- .NET 7
+- MAUI
 
 # Recursos envolvidos
 - Injeção de Dependência.
