@@ -23,9 +23,9 @@ O projeto App Controle Financeiro consiste em uma aplicação com três telas pr
     <th> Principal </th>
     <th> Cadastro/Atualização </th>
   <tr>
-    <td> <img src="screens/screen1.png" alt="SplashScreen" style="height: 200px;"/> </td>
-    <td> <img src="screens/screen2.png" alt="Listagem" style="height: 200px;"/> </td>
-    <td> <img src="screens/screen3.png" alt="Cadastro" style="height: 200px;"/> </td>
+    <td> <img src="screens/screen1.png" alt="SplashScreen" style="height: 300px;"/> </td>
+    <td> <img src="screens/screen2.png" alt="Listagem" style="height: 300px;"/> </td>
+    <td> <img src="screens/screen3.png" alt="Cadastro" style="height: 300px;"/> </td>
    </tr>
   </tr>
 </table>
